@@ -6,7 +6,6 @@ Copyright 2025 Nico Strecker
 
 Licensed under the Apache License, Version 2.0
 
-
 ## Overview
 
 The IPv6 Simple Format project (v6sf) is an open initiative that aims to make IPv6 addresses easier to communicate, share and verify in human oriented contexts.
@@ -15,6 +14,8 @@ The project provides a human friendly textual format for IPv6 addresses, referen
 
 The core of the project is the IPv6 Simple Format itself, a fully reversible representation of IPv6 addresses designed for manual communication while preserving the complete 128 bit address information.
 
+## Specificaiton
+[Read the Specification](Specification.md)
 
 ## Motivation
 
