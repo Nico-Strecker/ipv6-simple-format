@@ -71,8 +71,7 @@ This repository contains.
 
 Project documentation  
 The IPv6 Simple Format specification  
-Reference implementations  
-Examples and test vectors  
+Reference implementations   
 
 The specification itself is located in the specification directory and is maintained as a separate document.
 
