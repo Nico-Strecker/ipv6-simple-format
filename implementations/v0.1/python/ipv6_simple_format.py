@@ -1,7 +1,7 @@
 """
 IPv6 Simple Format (v6sf) implementation in Python
 
-Version 0.1
+Version 0.0.1
 
 This module provides functions to encode and decode IPv6 addresses
 according to the IPv6 Simple Format specification.

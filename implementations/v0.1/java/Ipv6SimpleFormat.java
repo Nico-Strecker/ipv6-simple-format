@@ -4,7 +4,7 @@ import java.util.Locale;
 /**
  * IPv6SimpleFormat (v6sf) implementation in Java
  * 
- * Version 0.1
+ * Version 0.0.1
  * 
  * This class provides methods to encode and decode IPv6 addresses
  * according to the IPv6 Simple Format specification.
@@ -19,7 +19,7 @@ import java.util.Locale;
  * Licensed under Apache License 2.0
  * 
  * @author Nico Strecker
- * @version 0.1
+ * @version 0.0.1
  */
 public class IPv6SimpleFormat {
 

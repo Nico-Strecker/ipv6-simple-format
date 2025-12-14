@@ -2,7 +2,7 @@
 
 Part of the IPv6 Simple Format Project
 
-Version 0.1
+Version 0.0.1
 
 Copyright 2025 Nico Strecker
 

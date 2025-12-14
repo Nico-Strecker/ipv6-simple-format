@@ -1,6 +1,6 @@
 # IPv6 Simple Format Project (v6sf)
 
-Version 0.1
+Version 0.0.1
 
 Copyright 2025 Nico Strecker
 
